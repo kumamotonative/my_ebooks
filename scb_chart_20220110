@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T14:25:32.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="s3MRm8M8hMLVCU_TGAUw" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T15:07:25.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WjCf7UN8uBLisymrkm3Q" version="16.2.4" type="github">
   <diagram id="Lefo6TAorAdh1lJEJR6F" name="ページ1">
     <mxGraphModel dx="1209" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxGeometry x="216" y="130" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-24" target="dUrLOYDM-hGpd3KbLh4y-5" edge="1">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-24" target="dUrLOYDM-hGpd3KbLh4y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="970" />
@@ -308,7 +308,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市教育委員会プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;地域教育プラットフォーム構築と&lt;br&gt;　地域イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊（崇城大）&lt;/li&gt;&lt;/ul&gt;" link="https://www.city.kumamoto.jp/hpkiji/pub/list.aspx?c_id=5&amp;class_set_id=3&amp;class_id=515" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-29">
+        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市教育委員会プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;地域教育プラットフォーム構築と&lt;br&gt;　地域イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊&lt;/li&gt;&lt;/ul&gt;" link="https://www.city.kumamoto.jp/hpkiji/pub/list.aspx?c_id=5&amp;class_set_id=3&amp;class_id=515" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-29">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="590" y="325" width="260" height="95" as="geometry" />
           </mxCell>
