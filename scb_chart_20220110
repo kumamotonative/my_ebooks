@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T08:52:58.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qOdQP77shTwBU_5DgCBp" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T09:14:18.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_ZepOmP6ZzFhAn9XH_Sg" version="16.2.4" type="github">
   <diagram id="Lefo6TAorAdh1lJEJR6F" name="ページ1">
-    <mxGraphModel dx="2015" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-17" value="地域活性化" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;align=center;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="260" width="570" height="540" as="geometry" />
+          <mxGeometry x="910" y="260" width="570" height="550" as="geometry" />
         </mxCell>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-53" value="県外" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="870" width="280" height="380" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="210" y="260" width="680" height="760" as="geometry" />
         </mxCell>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-5" value="農業　" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;spacing=0;align=right;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="820" width="280" height="142.5" as="geometry" />
+          <mxGeometry x="1190" y="830" width="280" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-6" value="SCB Connection Chart" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#000000;fontSize=24;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="680" height="70" as="geometry" />
@@ -72,7 +72,7 @@
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;土の魔術師たち&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;農家から有機農業の情報発信&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;黒川努（設計会社経営）&lt;/li&gt;&lt;/ul&gt;" link="https://www.facebook.com/the.soil.magicians/" id="HhAMdpgr5RSvLUbkyRgP-20">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=4;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
-            <mxGeometry x="1204.5" y="851.25" width="240" height="80" as="geometry" />
+            <mxGeometry x="1204.5" y="861.25" width="240" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;fontSize=14;spacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-22" target="HhAMdpgr5RSvLUbkyRgP-51" edge="1">
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;ジョブラボぐんま&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;イノベーション創発や&lt;br&gt;　起業家育成、創業支援&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;小保方貴之（理事）&lt;/li&gt;&lt;/ul&gt;" link="https://www.joblab.gunma.jp/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-24">
+        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;ジョブラボぐんま&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;イノベーション人材創発や&lt;br&gt;　起業家育成、創業支援&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;小保方貴之（理事）&lt;/li&gt;&lt;/ul&gt;" link="https://www.joblab.gunma.jp/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-24">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="280" y="900" width="230" height="100" as="geometry" />
           </mxCell>
@@ -109,17 +109,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;ホンモノニツナガルPJ&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;トップランナーによる&lt;br style=&quot;font-size: 14px&quot;&gt;　青少年への講演活動&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊&lt;/li&gt;&lt;/ul&gt;" link="https://scbhonmono.wixsite.com/home" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-33">
+        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;ホンモノニツナガルPJ&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;トップ人材との交流による&lt;br style=&quot;font-size: 14px&quot;&gt;　青少年イノベーター育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊&lt;/li&gt;&lt;/ul&gt;" link="https://scbhonmono.wixsite.com/home" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-33">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=4;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="590" y="428" width="260" height="95" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-45" target="dUrLOYDM-hGpd3KbLh4y-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;TEDx Kumamoto&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;プレゼンテーションスキル向上&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;松岡祥仁（IT会社経営）&lt;/li&gt;&lt;/ul&gt;" link="http://www.tedxkumamoto.com/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-45">
+        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;TEDx Kumamoto&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;イノベーション人材育成&lt;br&gt;プレゼンテーションスキル向上&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;松岡祥仁（IT会社経営）&lt;/li&gt;&lt;/ul&gt;" link="http://www.tedxkumamoto.com/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-45">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=4;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
-            <mxGeometry x="260" y="760" width="274" height="80" as="geometry" />
+            <mxGeometry x="260" y="750" width="274" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;JAPAN BRAND FESTIVAL&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;日本ブランドを海外発信&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;堀田卓哉（法人代表）&lt;/li&gt;&lt;/ul&gt;" link="http://jbfes.com/" id="HhAMdpgr5RSvLUbkyRgP-49">
@@ -165,14 +162,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;SCBイノベーションアカデミー&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;イノベーション創発講座実施校&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;星合隆成校長&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-61">
+        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;SCBイノベーションアカデミー&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;イノベーション創発講座による&lt;br&gt;イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;星合隆成校長&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-61">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
-            <mxGeometry x="260" y="305" width="274" height="80" as="geometry" />
+            <mxGeometry x="260" y="305" width="274" height="95" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミー熊本校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-62">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
-            <mxGeometry x="260" y="405" width="274" height="45" as="geometry" />
+            <mxGeometry x="260" y="420" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;shape=link;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-68" target="HhAMdpgr5RSvLUbkyRgP-60">
@@ -186,31 +183,31 @@
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" parent="1" edge="1" source="HhAMdpgr5RSvLUbkyRgP-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="397" y="405" as="sourcePoint" />
-            <mxPoint x="397" y="385" as="targetPoint" />
+            <mxPoint x="397" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミー福岡校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-2">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
-            <mxGeometry x="260" y="470" width="274" height="45" as="geometry" />
+            <mxGeometry x="260" y="485" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" edge="1" source="dUrLOYDM-hGpd3KbLh4y-2" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="397" y="470" as="sourcePoint" />
-            <mxPoint x="397" y="450" as="targetPoint" />
+            <mxPoint x="397" y="485" as="sourcePoint" />
+            <mxPoint x="397" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-5" target="dUrLOYDM-hGpd3KbLh4y-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="397" y="520" />
-              <mxPoint x="397" y="520" />
+              <mxPoint x="397" y="535" />
+              <mxPoint x="397" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミーぐんま校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-5">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
-            <mxGeometry x="260" y="532" width="274" height="45" as="geometry" />
+            <mxGeometry x="260" y="547" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;fontSize=14;spacing=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-6" target="dUrLOYDM-hGpd3KbLh4y-5">
@@ -218,20 +215,29 @@
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミー道の駅サテライト校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-6">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
-            <mxGeometry x="260" y="597" width="274" height="45" as="geometry" />
+            <mxGeometry x="260" y="612" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;fontSize=14;spacing=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-7" target="dUrLOYDM-hGpd3KbLh4y-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="397" y="650" />
-              <mxPoint x="397" y="650" />
+              <mxPoint x="397" y="665" />
+              <mxPoint x="397" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;exitX=0.5;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397" y="735" />
+              <mxPoint x="397" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;アカデミーシティエフエム&lt;br&gt;　校区のチカラ校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-7">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
-            <mxGeometry x="260" y="660" width="274" height="60" as="geometry" />
+            <mxGeometry x="260" y="675" width="274" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-20" target="HhAMdpgr5RSvLUbkyRgP-61">
@@ -251,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;崇城大学IoT・AIセンター&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;崇城大学内イノベーションハブ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;星合隆成センター長&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://www.cis.sojo-u.ac.jp/index.php/iot-ai-center.html" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-51">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=4;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="610" y="130" width="260" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -281,7 +287,7 @@
         <mxCell id="dUrLOYDM-hGpd3KbLh4y-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;shape=link;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-29" target="HhAMdpgr5RSvLUbkyRgP-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市教育委員会プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;地域教育プラットフォーム構築&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊（崇城大）&lt;/li&gt;&lt;/ul&gt;" link="https://www.city.kumamoto.jp/hpkiji/pub/list.aspx?c_id=5&amp;class_set_id=3&amp;class_id=515" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-29">
+        <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市教育委員会プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;地域教育プラットフォーム構築&lt;br&gt;地域イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊（崇城大）&lt;/li&gt;&lt;/ul&gt;" link="https://www.city.kumamoto.jp/hpkiji/pub/list.aspx?c_id=5&amp;class_set_id=3&amp;class_id=515" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-29">
           <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
             <mxGeometry x="590" y="302.5" width="260" height="95" as="geometry" />
           </mxCell>
