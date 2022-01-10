@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T09:42:13.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sdoaeR19wcqqnK1CQmLF" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T09:43:55.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="y87q_wiDaHYTvhoKaNTp" version="16.2.4" type="github">
   <diagram id="Lefo6TAorAdh1lJEJR6F" name="ページ1">
     <mxGraphModel dx="1273" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="260" y="890" width="280" height="380" as="geometry" />
         </mxCell>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-1" value="ICT　" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;align=center;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="560" width="300" height="620" as="geometry" />
+          <mxGeometry x="570" y="570" width="300" height="610" as="geometry" />
         </mxCell>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-4" value="イノベーション人材育成" style="whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;dashed=1;dashPattern=1 1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="690" height="760" as="geometry" />
