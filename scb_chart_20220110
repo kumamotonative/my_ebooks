@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T10:02:25.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_h7ZvN8joVovce9irZiO" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T14:24:07.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Xgxwwr79kp6lUXM2GNX5" version="16.2.4" type="github">
   <diagram id="Lefo6TAorAdh1lJEJR6F" name="ページ1">
     <mxGraphModel dx="2198" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;群馬大学理工学部&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;石間教授&lt;/li&gt;&lt;/ul&gt;" link="http://jbfes.com/" id="dUrLOYDM-hGpd3KbLh4y-63">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=4;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
             <mxGeometry x="282" y="1040" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
