@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T14:24:07.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Xgxwwr79kp6lUXM2GNX5" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T14:24:47.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RLB6_KUX50U5Ez_H44TD" version="16.2.4" type="github">
   <diagram id="Lefo6TAorAdh1lJEJR6F" name="ページ1">
-    <mxGraphModel dx="2198" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-17" value="地域活性化" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;align=center;spacing=0;" vertex="1" parent="1">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-17" value="地域活性化" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;align=center;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="280" width="570" height="550" as="geometry" />
         </mxCell>
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-53" value="県外" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=18;fontColor=#000000;verticalAlign=top;fontStyle=1;spacing=0;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-6" value="SCB Connection Chart" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#000000;fontSize=24;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="720" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=classic;endFill=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-14" target="HhAMdpgr5RSvLUbkyRgP-4">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=classic;endFill=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-14" target="HhAMdpgr5RSvLUbkyRgP-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="310" as="targetPoint" />
             <Array as="points">
@@ -36,7 +36,7 @@
             <mxGeometry x="1290" y="130" width="189" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HhAMdpgr5RSvLUbkyRgP-61">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HhAMdpgr5RSvLUbkyRgP-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="755" as="sourcePoint" />
             <Array as="points">
@@ -56,7 +56,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-19" target="dUrLOYDM-hGpd3KbLh4y-17">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-19" target="dUrLOYDM-hGpd3KbLh4y-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="891" y="230" />
@@ -82,7 +82,7 @@
             <mxGeometry x="216" y="130" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-24" target="dUrLOYDM-hGpd3KbLh4y-5">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-24" target="dUrLOYDM-hGpd3KbLh4y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="970" />
@@ -101,7 +101,7 @@
             <mxGeometry x="280" y="1260" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-33" target="HhAMdpgr5RSvLUbkyRgP-61">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-33" target="HhAMdpgr5RSvLUbkyRgP-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="496" />
@@ -147,10 +147,10 @@
         <mxCell id="HhAMdpgr5RSvLUbkyRgP-58" value="Yutaka Naito" style="text;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;dashed=1;dashPattern=1 1;strokeColor=#000000;strokeWidth=3;fillColor=none;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="1000" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-60" target="HhAMdpgr5RSvLUbkyRgP-14">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-60" target="HhAMdpgr5RSvLUbkyRgP-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-60" target="dUrLOYDM-hGpd3KbLh4y-17">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-60" target="dUrLOYDM-hGpd3KbLh4y-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1155" y="230" />
@@ -163,7 +163,7 @@
             <mxGeometry x="1033" y="130" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-61" target="dUrLOYDM-hGpd3KbLh4y-29">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-61" target="dUrLOYDM-hGpd3KbLh4y-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="372" />
@@ -181,7 +181,7 @@
             <mxGeometry x="260" y="440" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;shape=link;width=-3.75;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-68" target="HhAMdpgr5RSvLUbkyRgP-60">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;shape=link;width=-3.75;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-68" target="HhAMdpgr5RSvLUbkyRgP-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1341" y="266" />
@@ -194,24 +194,24 @@
             <mxGeometry x="1222.25" y="322.5" width="237.75" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="HhAMdpgr5RSvLUbkyRgP-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" parent="1" edge="1" source="HhAMdpgr5RSvLUbkyRgP-62">
+        <mxCell id="HhAMdpgr5RSvLUbkyRgP-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="397" y="425" as="sourcePoint" />
             <mxPoint x="397" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミー福岡校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-2">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="260" y="505" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" edge="1" source="dUrLOYDM-hGpd3KbLh4y-2" parent="1">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="397" y="505" as="sourcePoint" />
             <mxPoint x="397" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-5" target="dUrLOYDM-hGpd3KbLh4y-2">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;spacing=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-5" target="dUrLOYDM-hGpd3KbLh4y-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="397" y="555" />
@@ -220,19 +220,19 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミーぐんま校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-5">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="260" y="567" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;fontSize=14;spacing=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-6" target="dUrLOYDM-hGpd3KbLh4y-5">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;fontSize=14;spacing=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-6" target="dUrLOYDM-hGpd3KbLh4y-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;アカデミー道の駅サテライト校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-6">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="260" y="632" width="274" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;fontSize=14;spacing=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-7" target="dUrLOYDM-hGpd3KbLh4y-6">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=link;fontSize=14;spacing=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-7" target="dUrLOYDM-hGpd3KbLh4y-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="397" y="685" />
@@ -240,7 +240,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;exitX=0.5;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-7">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;exitX=0.5;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="397" y="770" as="targetPoint" />
             <Array as="points">
@@ -250,11 +250,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;アカデミーシティエフエム&lt;br&gt;　校区のチカラ校&lt;/li&gt;&lt;/ul&gt;" link="https://scb-innovation.academy/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-7">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="260" y="695" width="274" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-20" target="HhAMdpgr5RSvLUbkyRgP-61">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-20" target="HhAMdpgr5RSvLUbkyRgP-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="890" />
@@ -264,11 +264,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;NOCODO&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;ノーコード普及と人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;高橋&lt;/li&gt;&lt;/ul&gt;" link="https://nocodo.net" id="dUrLOYDM-hGpd3KbLh4y-20">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="590" y="1000" width="260" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-51" target="HhAMdpgr5RSvLUbkyRgP-19">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-51" target="HhAMdpgr5RSvLUbkyRgP-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;崇城大学IoT・AIセンター&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;崇城大学内イノベーションハブ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;星合隆成センター長&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://www.cis.sojo-u.ac.jp/index.php/iot-ai-center.html" linkTarget="_blank" id="HhAMdpgr5RSvLUbkyRgP-51">
@@ -276,7 +276,7 @@
             <mxGeometry x="486" y="130" width="260" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;fontSize=14;fontColor=#000000;spacing=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhAMdpgr5RSvLUbkyRgP-4" target="HhAMdpgr5RSvLUbkyRgP-51">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;fontSize=14;fontColor=#000000;spacing=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HhAMdpgr5RSvLUbkyRgP-4" target="HhAMdpgr5RSvLUbkyRgP-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="545" y="230" />
@@ -286,7 +286,7 @@
             <mxPoint x="850" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-28" target="HhAMdpgr5RSvLUbkyRgP-61">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-28" target="HhAMdpgr5RSvLUbkyRgP-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="897" />
@@ -295,11 +295,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本西高校プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;高校生イノベーター育成&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;星合隆成&lt;/li&gt;&lt;/ul&gt;" link="https://sh.higo.ed.jp/kumanishi/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-28">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="590" y="851" width="260" height="93" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;shape=link;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-29" target="HhAMdpgr5RSvLUbkyRgP-60">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;shape=link;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-29" target="HhAMdpgr5RSvLUbkyRgP-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="352" />
@@ -309,42 +309,42 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市教育委員会プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;地域教育プラットフォーム構築と&lt;br&gt;　地域イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊（崇城大）&lt;/li&gt;&lt;/ul&gt;" link="https://www.city.kumamoto.jp/hpkiji/pub/list.aspx?c_id=5&amp;class_set_id=3&amp;class_id=515" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-29">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="590" y="325" width="260" height="95" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;国土交通省プロジェクト&lt;br&gt;（道の駅との共同研究）&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;道の駅活性化策の企画運営&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;内藤豊&lt;/li&gt;&lt;/ul&gt;" link="https://www.aso-denku.jp/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-30">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="930.13" y="322.5" width="273.25" height="95" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-31" target="HhAMdpgr5RSvLUbkyRgP-20">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-31" target="HhAMdpgr5RSvLUbkyRgP-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;厚労省プロジェクト&lt;br&gt;（市社会福祉事業団との共同研究）&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;福祉をテーマにした企業連携&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;永目（事業団理事長）&lt;/li&gt;&lt;/ul&gt;" link="http://ksfj.hinokuni-net.jp/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-31">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="1186.75" y="705" width="275.5" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;駐車場イノベーション&lt;br&gt;　プロジェクト&lt;br&gt;（日本パスートとの共同研究）&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;駐車場の異分野利用促進&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;太田（パスート取締役）&lt;/li&gt;&lt;/ul&gt;" link="http://www.passurt.com/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-32">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="1222.25" y="452.5" width="237.75" height="113" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市北区地域改革プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;産官学連携による地域課題解決&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;磯田（北区役所）&lt;/li&gt;&lt;/ul&gt;" link="https://www.city.kumamoto.jp/kita/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-33">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="929" y="455" width="275.5" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-34" target="dUrLOYDM-hGpd3KbLh4y-33">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-34" target="dUrLOYDM-hGpd3KbLh4y-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;蔦屋書店活性化プロジェクト&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;TSUTAYAを拠点とする&lt;br&gt;　地域課題解決に向けた取り組み&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;野田（ニューコ・ワン）&lt;/li&gt;&lt;/ul&gt;" link="https://newco1.co.jp/" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-34">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="929" y="577" width="275.5" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUrLOYDM-hGpd3KbLh4y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;shape=link;exitX=0;exitY=0.5;exitDx=0;exitDy=0;width=-4.838709677419355;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUrLOYDM-hGpd3KbLh4y-41" target="HhAMdpgr5RSvLUbkyRgP-15">
+        <mxCell id="dUrLOYDM-hGpd3KbLh4y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;strokeColor=default;shape=link;exitX=0;exitY=0.5;exitDx=0;exitDy=0;width=-4.838709677419355;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dUrLOYDM-hGpd3KbLh4y-41" target="HhAMdpgr5RSvLUbkyRgP-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="755" />
@@ -353,12 +353,12 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;熊本市少年少女発明クラブ&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;小学生ものづくり人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;菊池&lt;/li&gt;&lt;/ul&gt;" link="https://kumamotoshihatsume.wixsite.com/hatsumeikids" linkTarget="_blank" id="dUrLOYDM-hGpd3KbLh4y-41">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="930" y="710" width="230" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;群馬大学理工学部&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;イノベーション人材育成&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;石間教授&lt;/li&gt;&lt;/ul&gt;" link="http://jbfes.com/" id="dUrLOYDM-hGpd3KbLh4y-63">
-          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" vertex="1" parent="1">
+          <mxCell style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeWidth=2;strokeColor=#000000;fontSize=14;spacing=0;" parent="1" vertex="1">
             <mxGeometry x="282" y="1040" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
